@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feature
+      id="com.initka.nui.jre.feature"
+      label="com.initka.nui.jre.feature"
+      version="11.0.0"
+      provider-name="INIT GmbH">
+
+   <plugin
+         id="zulu.ca.fx.jre"
+         download-size="0"
+         install-size="0"
+         version="0.0.0"
+         unpack="false"/>
+
+</feature>
